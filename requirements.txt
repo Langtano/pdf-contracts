@@ -1,0 +1,6 @@
+Django==2.2.12
+django-cors-headers==3.2.1
+djangorestframework==3.11.0
+Pillow==7.1.2
+reportlab==3.5.42
+six==1.14.0
